@@ -1,2 +1,0 @@
-print('Bay')
-print ('Hello.!!!')
